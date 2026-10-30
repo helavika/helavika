@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Viktoria Shchypalkina — Front-End &amp; Marketing Technology Engineer. Referral programs · A/B testing · Apple &amp; Google Wallet · AI agents">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E1733"/><stop offset="1" stop-color="#2A1E40"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="type"><rect x="76" y="40" width="0" height="110">
+      <animate attributeName="width" values="0.0;33.3;66.7;100.0;133.3;166.7;200.0;233.3;266.7;300.0;333.3;366.7;400.0;433.3;466.7;500.0;533.3;566.7;600.0;633.3;666.7;700.0" dur="1.9s" begin=".3s" calcMode="discrete" fill="freeze"/>
+    </rect></clipPath>
+    <style>
+      text { font-family: ui-rounded, "SF Pro Rounded", "Nunito", "Segoe UI", system-ui, sans-serif; }
+      .name { font-size: 62px; font-weight: 800; fill: #FFF1F8; letter-spacing: -1px; }
+      .role { font-size: 26px; font-weight: 600; fill: #CDBDEB; }
+      .label { font-size: 21px; font-weight: 800; }
+      .glyph { font-size: 28px; font-weight: 700; }
+      .cap { animation: press 3.6s ease-out infinite; }
+      @keyframes press { 0%, 14%, 100% { transform: translateY(0); } 4%, 7% { transform: translateY(12px); } }
+      .burst { opacity: 0; animation: burst 3.6s ease-out infinite; }
+      @keyframes burst { 0%, 3% { opacity: 0; transform: translateY(6px); } 6% { opacity: 1; transform: translateY(0); } 16%, 100% { opacity: 0; transform: translateY(-8px); } }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .burst { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="398" rx="30" fill="url(#bg)" stroke="#3A2E52" stroke-width="2"/>
+
+  <g clip-path="url(#type)"><text class="name" x="80" y="122" textLength="700" lengthAdjust="spacingAndGlyphs">Viktoria Shchypalkina</text></g>
+  <rect class="caret" x="786" y="72" width="5" height="60" rx="2.5" fill="#FFB3D4">
+    <animate attributeName="x" values="86.0;119.3;152.7;186.0;219.3;252.7;286.0;319.3;352.7;386.0;419.3;452.7;486.0;519.3;552.7;586.0;619.3;652.7;686.0;719.3;752.7;786.0" dur="1.9s" begin=".3s" calcMode="discrete" fill="freeze"/>
+  </rect>
+  <text class="role" x="82" y="172">Front-End &amp; Marketing Technology Engineer</text>
+
+  <rect x="35" y="206" width="1130" height="140" rx="30" fill="#161026" stroke="#3A2E52" stroke-width="2"/>
+    <g transform="translate(51 222)">
+      <rect x="4" y="16" width="76" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      
+      <g class="k">
+        <rect width="84" height="96" rx="20" fill="#D9CFEA"/>
+        <rect x="9" y="4" width="66" height="76" rx="15" fill="#FBF7FF"/>
+        <rect x="16" y="8" width="52" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="42.0" y="50.0" text-anchor="middle" class="glyph" fill="#D9CFEA">✦</text>
+      </g>
+    </g>
+    <g transform="translate(149 222)">
+      <rect x="4" y="16" width="242" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      <g class="burst" style="animation-delay:0.00s"><path d="M95.0 -25 l-6 -12" stroke="#E58AB0" stroke-width="4" stroke-linecap="round"/><path d="M125.0 -20 l0 -12" stroke="#E58AB0" stroke-width="4" stroke-linecap="round"/><path d="M155.0 -25 l6 -12" stroke="#E58AB0" stroke-width="4" stroke-linecap="round"/></g>
+      <g class="k cap" style="animation-delay:0.00s">
+        <rect width="250" height="96" rx="20" fill="#E58AB0"/>
+        <rect x="9" y="4" width="232" height="76" rx="15" fill="#FFC2DC"/>
+        <rect x="16" y="8" width="218" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="125.0" y="50.0" text-anchor="middle" class="label" fill="#2A1D45">Referral programs</text>
+      </g>
+    </g>
+    <g transform="translate(413 222)">
+      <rect x="4" y="16" width="162" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      <g class="burst" style="animation-delay:0.45s"><path d="M55.0 -25 l-6 -12" stroke="#A08DE6" stroke-width="4" stroke-linecap="round"/><path d="M85.0 -20 l0 -12" stroke="#A08DE6" stroke-width="4" stroke-linecap="round"/><path d="M115.0 -25 l6 -12" stroke="#A08DE6" stroke-width="4" stroke-linecap="round"/></g>
+      <g class="k cap" style="animation-delay:0.45s">
+        <rect width="170" height="96" rx="20" fill="#A08DE6"/>
+        <rect x="9" y="4" width="152" height="76" rx="15" fill="#D6C9FF"/>
+        <rect x="16" y="8" width="138" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="85.0" y="50.0" text-anchor="middle" class="label" fill="#2A1D45">A/B testing</text>
+      </g>
+    </g>
+    <g transform="translate(597 222)">
+      <rect x="4" y="16" width="272" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      <g class="burst" style="animation-delay:0.90s"><path d="M110.0 -25 l-6 -12" stroke="#62AEE0" stroke-width="4" stroke-linecap="round"/><path d="M140.0 -20 l0 -12" stroke="#62AEE0" stroke-width="4" stroke-linecap="round"/><path d="M170.0 -25 l6 -12" stroke="#62AEE0" stroke-width="4" stroke-linecap="round"/></g>
+      <g class="k cap" style="animation-delay:0.90s">
+        <rect width="280" height="96" rx="20" fill="#62AEE0"/>
+        <rect x="9" y="4" width="262" height="76" rx="15" fill="#A6DCFF"/>
+        <rect x="16" y="8" width="248" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="140.0" y="50.0" text-anchor="middle" class="label" fill="#2A1D45">Apple &amp; Google Wallet</text>
+      </g>
+    </g>
+    <g transform="translate(891 222)">
+      <rect x="4" y="16" width="152" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      <g class="burst" style="animation-delay:1.35s"><path d="M50.0 -25 l-6 -12" stroke="#E2BC6E" stroke-width="4" stroke-linecap="round"/><path d="M80.0 -20 l0 -12" stroke="#E2BC6E" stroke-width="4" stroke-linecap="round"/><path d="M110.0 -25 l6 -12" stroke="#E2BC6E" stroke-width="4" stroke-linecap="round"/></g>
+      <g class="k cap" style="animation-delay:1.35s">
+        <rect width="160" height="96" rx="20" fill="#E2BC6E"/>
+        <rect x="9" y="4" width="142" height="76" rx="15" fill="#FFE6B0"/>
+        <rect x="16" y="8" width="128" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="80.0" y="50.0" text-anchor="middle" class="label" fill="#2A1D45">AI agents</text>
+      </g>
+    </g>
+    <g transform="translate(1065 222)">
+      <rect x="4" y="16" width="76" height="92" rx="18" fill="#1A0F2E" opacity=".6"/>
+      
+      <g class="k">
+        <rect width="84" height="96" rx="20" fill="#D9CFEA"/>
+        <rect x="9" y="4" width="66" height="76" rx="15" fill="#FBF7FF"/>
+        <rect x="16" y="8" width="52" height="38.0" rx="11" fill="url(#shine)"/>
+        <text x="42.0" y="50.0" text-anchor="middle" class="glyph" fill="#D9CFEA">♡</text>
+      </g>
+    </g>
+</svg>
