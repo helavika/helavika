@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Viktoria Shchypalkina — Front-End and Marketing Technology Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2340"/>
+      <stop offset="0.55" stop-color="#1F3A5F"/>
+      <stop offset="1" stop-color="#1B6F7A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name{font:700 52px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:.5px}
+      .role{font:500 22px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#CDE7F0}
+      .tag{font:600 15px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#0F2340}
+      .edge{stroke:#7DD3FC;stroke-opacity:.45;stroke-width:1.6}
+      .node{fill:#5EEAD4}
+      .hub{fill:#fff}
+      @keyframes pulse{0%,100%{r:7}50%{r:10}}
+      .p{animation:pulse 3s ease-in-out infinite}
+      .p2{animation-delay:1s}.p3{animation-delay:2s}
+      @media (prefers-reduced-motion: reduce){.p{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+
+  <!-- referral network: one advocate shares to friends, who share onward -->
+  <g transform="translate(905 150)">
+    <line class="edge" x1="0" y1="0" x2="-95" y2="-70"/>
+    <line class="edge" x1="0" y1="0" x2="110" y2="-55"/>
+    <line class="edge" x1="0" y1="0" x2="-80" y2="80"/>
+    <line class="edge" x1="0" y1="0" x2="120" y2="70"/>
+    <line class="edge" x1="110" y1="-55" x2="200" y2="-95"/>
+    <line class="edge" x1="110" y1="-55" x2="215" y2="-20"/>
+    <line class="edge" x1="120" y1="70" x2="215" y2="105"/>
+    <line class="edge" x1="-95" y1="-70" x2="-170" y2="-110"/>
+    <line class="edge" x1="-80" y1="80" x2="-175" y2="100"/>
+    <circle class="hub" r="16"/>
+    <circle class="node p" cx="-95" cy="-70" r="8"/>
+    <circle class="node p p2" cx="110" cy="-55" r="8"/>
+    <circle class="node p p3" cx="-80" cy="80" r="8"/>
+    <circle class="node p" cx="120" cy="70" r="8"/>
+    <circle class="node" cx="200" cy="-95" r="5" opacity=".8"/>
+    <circle class="node" cx="215" cy="-20" r="5" opacity=".8"/>
+    <circle class="node" cx="215" cy="105" r="5" opacity=".8"/>
+    <circle class="node" cx="-170" cy="-110" r="5" opacity=".8"/>
+    <circle class="node" cx="-175" cy="100" r="5" opacity=".8"/>
+  </g>
+
+  <text class="name" x="60" y="118">Viktoria Shchypalkina</text>
+  <text class="role" x="60" y="158">Front-End &amp; Marketing Technology Engineer</text>
+
+  <g transform="translate(60 196)">
+    <rect width="168" height="34" rx="17" fill="#5EEAD4"/>
+    <text class="tag" x="84" y="22" text-anchor="middle">Referral programs</text>
+    <rect x="180" width="126" height="34" rx="17" fill="#7DD3FC"/>
+    <text class="tag" x="243" y="22" text-anchor="middle">A/B testing</text>
+    <rect x="318" width="206" height="34" rx="17" fill="#C4B5FD"/>
+    <text class="tag" x="421" y="22" text-anchor="middle">Apple &amp; Google Wallet</text>
+    <rect x="536" width="104" height="34" rx="17" fill="#FDE68A"/>
+    <text class="tag" x="588" y="22" text-anchor="middle">AI agents</text>
+  </g>
+</svg>

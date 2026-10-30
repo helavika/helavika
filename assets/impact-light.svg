@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="7+ years at Talkable, 4,000+ projects delivered, about 1,270 A/B tests, 300+ brands, 4x monthly delivery with AI">
+  <defs>
+    <style>
+      .num{font:800 46px 'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+      .lbl{font:500 16px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#475569}
+      .card{fill:#F8FAFC;stroke:#E2E8F0;stroke-width:1.5}
+    </style>
+  </defs>
+  <g>
+    <rect class="card" x="4" y="4" width="225" height="200" rx="16"/>
+    <rect x="4" y="4" width="225" height="6" rx="3" fill="#1F3A5F"/>
+    <text class="num" x="116" y="105" text-anchor="middle" fill="#3B82F6">7+</text>
+    <text class="lbl" x="116" y="140" text-anchor="middle">years building</text>
+    <text class="lbl" x="116" y="162" text-anchor="middle">referral programs</text>
+  </g>
+  <g transform="translate(242 0)">
+    <rect class="card" x="4" y="4" width="225" height="200" rx="16"/>
+    <rect x="4" y="4" width="225" height="6" rx="3" fill="#1B6F7A"/>
+    <text class="num" x="116" y="105" text-anchor="middle" fill="#14B8A6">4,000+</text>
+    <text class="lbl" x="116" y="140" text-anchor="middle">projects delivered</text>
+    <text class="lbl" x="116" y="162" text-anchor="middle">since 2019</text>
+  </g>
+  <g transform="translate(484 0)">
+    <rect class="card" x="4" y="4" width="225" height="200" rx="16"/>
+    <rect x="4" y="4" width="225" height="6" rx="3" fill="#7C3AED"/>
+    <text class="num" x="116" y="105" text-anchor="middle" fill="#8B5CF6">1,270</text>
+    <text class="lbl" x="116" y="140" text-anchor="middle">A/B tests</text>
+    <text class="lbl" x="116" y="162" text-anchor="middle">built and launched</text>
+  </g>
+  <g transform="translate(726 0)">
+    <rect class="card" x="4" y="4" width="225" height="200" rx="16"/>
+    <rect x="4" y="4" width="225" height="6" rx="3" fill="#D97706"/>
+    <text class="num" x="116" y="105" text-anchor="middle" fill="#F59E0B">300+</text>
+    <text class="lbl" x="116" y="140" text-anchor="middle">brands, from DTC</text>
+    <text class="lbl" x="116" y="162" text-anchor="middle">to global retail</text>
+  </g>
+  <g transform="translate(968 0)">
+    <rect class="card" x="4" y="4" width="225" height="200" rx="16"/>
+    <rect x="4" y="4" width="225" height="6" rx="3" fill="#DB2777"/>
+    <text class="num" x="116" y="105" text-anchor="middle" fill="#EC4899">4x</text>
+    <text class="lbl" x="116" y="140" text-anchor="middle">monthly delivery</text>
+    <text class="lbl" x="116" y="162" text-anchor="middle">with AI workflows</text>
+  </g>
+</svg>
