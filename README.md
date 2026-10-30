@@ -49,6 +49,12 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
   <img src="https://img.shields.io/badge/OpenClaw-E8453C?style=for-the-badge" alt="OpenClaw">
 </p>
 
+## 🎮 Side projects & open source
+
+- **[Sablune](https://helavika.github.io/sablune/)**: a tiny ASMR sand-art browser game. Slice soft sand, fill a glass jar, breathe. One `index.html` with canvas and Web Audio, every sound synthesized live ([source](https://github.com/helavika/sablune))
+- **[kaplay #1192](https://github.com/kaplayjs/kaplay/pull/1192)**: play sprite animations backwards in the KAPLAY game library
+- **[passkit-generator #277](https://github.com/alexandercerutti/passkit-generator/pull/277)**: fix `appLaunchURL` rejecting valid URIs in the Node.js Apple Wallet pass library
+
 ## 📊 GitHub activity
 
 Most of my work happens in private client repositories, so it shows up here as private contributions.
