@@ -52,6 +52,7 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
 ## 🎮 Side projects & open source
 
 - **[Sablune](https://helavika.github.io/sablune/)**: a tiny ASMR sand-art browser game. Slice soft sand, fill a glass jar, breathe. One `index.html` with canvas and Web Audio, every sound synthesized live ([source](https://github.com/helavika/sablune))
+- **[Hatchstone](https://helavika.github.io/hatchstone/)**: a tiny ASMR game. Crack open real geodes, hatch glowlings and raise them in a cozy cave nest. 24 levels, 17 minerals, 26 creatures, no libraries and no asset files ([source](https://github.com/helavika/hatchstone))
 - **[kaplay #1192](https://github.com/kaplayjs/kaplay/pull/1192)**: play sprite animations backwards in the KAPLAY game library
 - **[passkit-generator #277](https://github.com/alexandercerutti/passkit-generator/pull/277)**: fix `appLaunchURL` rejecting valid URIs in the Node.js Apple Wallet pass library
 
