@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1B6F7A&center=true&vCenter=true&width=640&lines=I+build+referral+programs+that+turn+customers+into+growth;1%2C270+A%2FB+tests+and+counting;Apple+%26+Google+Wallet+passes%2C+shipped;AI+agents+in+my+daily+workflow" alt="Typing intro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=D6C9FF&center=true&vCenter=true&width=640&lines=I+build+referral+programs+that+turn+customers+into+growth;1%2C270+A%2FB+tests+and+counting;Apple+%26+Google+Wallet+passes%2C+shipped;AI+agents+in+my+daily+workflow">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=I+build+referral+programs+that+turn+customers+into+growth;1%2C270+A%2FB+tests+and+counting;Apple+%26+Google+Wallet+passes%2C+shipped;AI+agents+in+my+daily+workflow" alt="Typing intro">
+  </picture>
 </p>
 
 ## 👋 About me
