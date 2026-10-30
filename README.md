@@ -40,6 +40,7 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenClaw-E8453C?style=for-the-badge" alt="OpenClaw">
 </p>
 
 ## 📊 GitHub activity
