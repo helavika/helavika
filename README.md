@@ -20,12 +20,30 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
 - 🎫 **Wallet:** the team's go-to Apple & Google Wallet specialist
 - 📈 Worked on programs featured in Talkable case studies: **American Eagle Outfitters** (58x peak ROI), **SwimOutlet** (+278% referral revenue), **Puffy** (20x ROI)
 - 🤖 **AI-assisted delivery:** wrote the Wallet skill for Talkable's AI Assistant; 4x monthly delivery after adopting AI workflows
+- 🎮 **Games:** I love games and game development, and in my free time I build my own indie game, **[Hatchstone](https://helavika.github.io/hatchstone/)**
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
     <img src="assets/impact-light.svg" alt="7+ years · 4,000+ projects · 1,270 A/B tests · 300+ brands · 4x monthly delivery with AI" width="100%">
   </picture>
+</p>
+
+## 🥚 My indie game
+
+<p align="center">
+  <a href="https://helavika.github.io/hatchstone/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hatchstone-dark.svg">
+      <img src="assets/hatchstone-light.svg" alt="Hatchstone: Geodes & Glowlings, my indie game. Crack open real geodes, hatch glowlings and raise them in a cozy cave nest. Play in your browser." width="100%">
+    </picture>
+  </a>
+</p>
+
+**Hatchstone** is what I build after hours: a cozy ASMR game for the browser and phones. Tap a stone egg to crack it (aim for its glowing weak spot), polish the geode inside and raise the glowling that hatches in your cave nest: feed it, play with it, decorate its room and, later, breed new hybrids. Every sound is synthesized live with the Web Audio API, it installs as an app and works offline, and you can invite a friend for online co-op. 🎧 Best with headphones.
+
+<p align="center">
+  <a href="https://helavika.github.io/hatchstone/"><b>▶ Play Hatchstone</b></a> · <a href="https://github.com/helavika/hatchstone">Source code</a>
 </p>
 
 ## 🛠️ Tech stack
@@ -49,10 +67,9 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
   <img src="https://img.shields.io/badge/OpenClaw-1B1E13?style=for-the-badge" alt="OpenClaw">
 </p>
 
-## 🎮 Side projects & open source
+## 🧩 More side projects & open source
 
 - **[Sablune](https://helavika.github.io/sablune/)**: a tiny ASMR sand-art browser game. Slice soft sand, fill a glass jar, breathe. One `index.html` with canvas and Web Audio, every sound synthesized live ([source](https://github.com/helavika/sablune))
-- **[Hatchstone](https://helavika.github.io/hatchstone/)**: a tiny ASMR game. Crack open real geodes, hatch glowlings and raise them in a cozy cave nest. 24 levels, 17 minerals, 26 creatures, no libraries and no asset files ([source](https://github.com/helavika/hatchstone))
 - **[kaplay #1192](https://github.com/kaplayjs/kaplay/pull/1192)**: play sprite animations backwards in the KAPLAY game library
 - **[passkit-generator #277](https://github.com/alexandercerutti/passkit-generator/pull/277)**: fix `appLaunchURL` rejecting valid URIs in the Node.js Apple Wallet pass library
 
