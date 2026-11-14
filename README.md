@@ -75,7 +75,7 @@ I'm a front-end and marketing-technology engineer in **Kyiv, Ukraine**. For 7+ y
 
 ## 📊 GitHub activity
 
-Most of my work happens in private client repositories, so it shows up here as private contributions.
+Most of my day-to-day engineering happens in private company and client repositories. GitHub only counts that work while I still have access to those repositories, so the graph below shows just part of it.
 
 <p align="center">
   <picture>
