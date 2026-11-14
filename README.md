@@ -79,7 +79,7 @@ Most of my work happens in private client repositories, so it shows up here as p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=helavika&hide_border=false&card_width=600&background=0B0C08&border=5D7A1E&stroke=5D7A1E&ring=A8D43A&fire=E8803A&currStreakNum=A8D43A&sideNums=E9DCBC&currStreakLabel=A8D43A&sideLabels=B3A684&dates=B3A684">
-    <img src="https://streak-stats.demolab.com?user=helavika&hide_border=false&card_width=600&background=E8DCC0&border=5A4A2C&stroke=5A4A2C&ring=4F6B12&fire=A4461A&currStreakNum=4F6B12&sideNums=2A2116&currStreakLabel=4F6B12&sideLabels=6B5A42&dates=6B5A42" alt="GitHub streak" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img src="assets/activity-light.svg" alt="My GitHub contributions over the last 12 months, with streaks and the busiest day" width="100%">
   </picture>
 </p>
